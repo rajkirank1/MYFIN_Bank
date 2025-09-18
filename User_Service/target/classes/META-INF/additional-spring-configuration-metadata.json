@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "app.error.code.notfound",
+    "type": "java.lang.String",
+    "description": "A description for 'app.error.code.notfound'"
+  },
+  {
+    "name": "app.error.code.conflict",
+    "type": "java.lang.String",
+    "description": "A description for 'app.error.code.conflict'"
+  }
+]}
